@@ -6,7 +6,7 @@ No AI code generation. Pure manual coding.
 ## Structure
 - Week_01: Python + Practical Projects (Day 01-07)
 - Week_02: ML Fundamentals from Scratch (Day 08-14)
-- Week_3: Ml Algorithms from Sraatch (Day15)
+- Week_03: Ml Algorithms from Sraatch (Day15)
 
 ## Projects
 | Day | Project | Tech |
