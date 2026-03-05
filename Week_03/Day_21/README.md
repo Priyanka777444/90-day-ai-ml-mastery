@@ -48,7 +48,7 @@ Visualization: Charts & dashboards (Pie charts, Bar charts)
 
 📦 How to Run
 # Clone the repository
-git clone https://github.com/yourusername/ai-support-analyzer.git
+git clone https://github.com/Priyanka777444/ai-support-analyzer.git
 
 # Go to project folder
 cd ai-support-analyzer
