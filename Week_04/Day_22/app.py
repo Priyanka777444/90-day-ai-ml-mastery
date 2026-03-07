@@ -75,10 +75,12 @@ else:
 analyze_btn = st.sidebar.button("🚀 Analyze Tickets", type="primary")
 
 if analyze_btn and tickets_text:
-    tickets = [t.strip() for t in tickets_text.strip().split('\n') if t.strip()]
 
-    st.markdown(f"### Analyzing {len(tickets)} tickets...")
-    progress = st.progress(0)
+    with st.spinner("AI is analyzing support tickets..."):
+        tickets = [t.strip() for t in tickets_text.split('\n') if t.strip()]
+
+        st.markdown(f"### Analyzing {len(tickets)} tickets...")
+        progress = st.progress(0)
     status = st.empty()
 
     results = []
