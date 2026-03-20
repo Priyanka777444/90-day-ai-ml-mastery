@@ -1,7 +1,7 @@
 # 90 Day AI/ML Mastery Challenge 🚀
 
 Building one project every day for 90 days.
-No AI code generation. Pure manual coding.
+ Pure manual coding.
 
 ## 🌐 Live Projects
 | Project | Link |
